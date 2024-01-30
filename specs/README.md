@@ -2,7 +2,7 @@
 
 ### ABIs
 
-https://www.uclibc.org/docs/psABI-x86_64.pdf
+https://gitlab.com/x86-psABIs/x86-64-ABI, https://www.uclibc.org/docs/psABI-x86_64.pdf
 
 https://github.com/ARM-software/abi-aa
 
